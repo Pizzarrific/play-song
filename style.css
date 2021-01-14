@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://wallpaperset.com/w/full/e/2/f/121709.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#play{
+    color: black;
+    position: center;
+    border-radius: 5%;
+    size: 70px;
+    font-size: large;
+    margin-top: 20%;
+}
+#Pause{
+    color: black;
+    border-radius: 5%;
+    size: 70px;
+    font-size: large;
+    margin-top: 20%;
+    
+}
